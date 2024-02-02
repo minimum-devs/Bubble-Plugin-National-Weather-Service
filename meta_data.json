@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "web scraping",
+        "1": "productivity",
+        "2": "technical",
+        "3": "location",
+        "4": "energy"
+    },
+    "demo_page": "https://national-weather-service.bubbleapps.io/version-test",
+    "description": "A free, reliable solution for getting a current or hourly weather forecast directly in bubble.\n\n⁉️ Demo available here 👉🏽 https://national-weather-service.bubbleapps.io/version-test\n\nView the editor 👉🏽 https://bubble.io/page?name=index&id=national-weather-service\n\nThere is only one caveat! \n\nSince this is a public services provided by the US 🇺🇸 it will only have weather data for the US.\n\nIf that's all you need, you're good.\n\n✅ Free\n✅ Reliable\n✅ No limits",
+    "image": "//s3.amazonaws.com/appforest_uf/f1652797408272x676798543983983200/nws.png",
+    "license": "open_source",
+    "link": "https://minimum.studio/plugins",
+    "name": "National Weather Service",
+    "plugin_instructions": "If you need the current forecast for a location:\n\n\n🏃‍♀️ Run the 'Get Current Weather' action\n👍🏻 Use the data returned by the action\n\nIf you need the closest forecast for a specific location + date in the future:\n\n🏃‍♀️ Run the 'Get Closest Weather' action\n👍🏻 Use the data returned by the action\n⚠️ Date must be within 5 days from now\n\nDemo available here 👉🏽 https://national-weather-service.bubbleapps.io/version-test",
+    "sa_node_version": 18
+}
